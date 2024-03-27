@@ -86,9 +86,134 @@
 // }
 
 
+// let product = 1;
+
+// // Loop through odd integers from 1 to 7
+// for (let i = 1; i <= 7; i += 2) {
+//     // Multiply the current product with the current odd integer
+//     product *= i;
+// }
+// console.log("Product of odd integers from 1 to 7:", product);   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const  fruits = ["talha","asad bahi","areeb"]
+// // console.log(fruits);
+//  var ol = document.querySelector("ol")
+
+// function render(){
+//     ol.innerHTML = ''
+//     for(i = 0; i < fruits.length; i++){
+//         console.log(fruits[i], i);
+//         ol.innerHTML += `<li>${fruits[i]}</li>` 
+//     }
+//  }
+
+
+
+// let i = 11;
+// do{
+//     console.log('do while' , i);
+//     i++
+// }while (11 < 10)
+
+///nal biryni khaoo ge 
+//////hello talha burger bacha 
+//////////hello bhiya k dost
+////////beta instagram kam ker do use krna 
+//////////////////chamaty prdy g app ko 
+///////////////////////hello bachoooooooooo
+///////////////////
+
+
+// let i = 0;
+// do{
+//     console.log("hello")
+// }while(i<10);
+
+
+
+
+
+
+
+
+
+
+
+// let head = document.querySelector('#input1') 
+// let head1 = document.querySelector('#input2') 
  
+// // var total = head.value + head1.value     
+// var total = Number(head,value) + Number(head1,value);
+// function check(){
+//      console.log(total);
+//     head.innerHTML = head.value
+//     head1.innerHTML = head1.value
+// }
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+//   Q = 9 
+// var A = [90,67,109,672,787,653];
+// var largestNumber = Math.max(...A)
+// document.write("THE LARGEST NUMBER OF ARRAY IS" +  " " +largestNumber)
+
+// Q = 10 
+// var  A =  [24, 53, 78, 91, 12]
+// var smallestNumber = Math.min(...A)
+// document.write("THE SMALLEST NUMBER OF ARRAY IS" + " " +smallestNumber)
+
+// Q = 11
+// var A =  [24, 53, 78, 91, 12]
+// var largestNumber = Math.max(...A)
+// var smallestNumber = Math.min(...A)
+// document.write("THE LARGEST NUMBER OF ARRAY IS" + " " +largestNumber)
+// document.write("<br>")
+// document.write("THE SMALLEST NUMBER OF ARRAY IS" + " " +smallestNumber)
+
+
+// Q = 12
+
+// for(let i=1; i<=100 ; i++){
+//     if(i % 5===0){
+//         console.log(i)
+//     }
+// }
