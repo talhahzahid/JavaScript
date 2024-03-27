@@ -99,7 +99,40 @@
 
 
 
+// Q.1 
+// for(let i = 1; i <= 5; i++){
+//     console.log("hello world", i)
+// }
 
+// Q.2
+
+// for(let i=1 ; i <= 10 ;i++){
+//    console.log(i)
+// }
+
+
+// Q.3
+
+// const userInput = +prompt("enter a table number")
+// const times = +prompt("length of multiple table")
+
+// for(let i = 1; i <= times ; i++){
+//     console.log(`${userInput}*${i} = ${userInput*i}`)
+// }
+
+
+
+
+// Q.6
+
+// const N = +prompt("enter a number")
+// const items = []
+
+// for(let i=0; i<N ; i++){
+//     const item = prompt("Enter items" + (i+1) + ':')
+//     items.push(item)
+// }
+// document.write(items)
 
 
 
@@ -216,4 +249,74 @@
 //     if(i % 5===0){
 //         console.log(i)
 //     }
+// }
+
+
+
+
+
+// Q.14
+
+// var score = [45,89,55,12,32,43]
+// var stopValue = prompt("enter a stop value")
+
+// for(let i=0; i < stopValue.length ; i++){
+//     if(score[i] <= stopValue)
+//     console.log(score[i])
+// }
+
+
+// Q.15
+
+// var a = [[1,2,3],[4,5,6],[7,8,9]]
+
+// for(let i = 0 ; i < a.length; i++){
+//     for(let j = 0; j < a[i].length ; j++){
+//         document.write(a[i][j])
+//     }
+// }
+
+// Q.16
+
+// var num = parseFloat(prompt("Enter a number"));
+
+// while(num > 0){
+//     console.log(num);
+//     num -= 0.5;
+// }
+
+
+
+// Q.17
+
+// for(let num = 0 ; num <= 20 ; num++){
+//     if(num % 2 === 0){
+//         console.log (num + "is even")
+//     }else{
+//         console.log(num + "is odd")
+//     }
+// }
+
+
+// Q.18
+
+// let product = 1
+
+// for(let num = 1 ; num <= 7 ; num+=2){
+//     product*=num
+// }
+// console.log("the product of the odd integer form 1 to 7 is" +" " +product)
+
+
+
+// Q.19
+
+// let initailStar = 7
+
+// for(let i = initailStar; i > 0; i--){
+//     let line = ""
+//     for(let j =0; j < i; j++){
+//         line +="*"
+//     }
+//     console.log(line)
 // }
